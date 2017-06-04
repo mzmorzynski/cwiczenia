@@ -5,3 +5,4 @@ __author__ = 'michal'
 print("to jest tekst testowy. wersja 1")
 print("ta linijka bedzie widoczna tylko w wersji 2")
 #wersja 3
+print("nowy commit")
